@@ -14,3 +14,7 @@ This project is a Twitter-based Social Media Dashboard built using Django. It in
 
 ## install dependencies:
 pip install -r requirements.txt
+
+## Add your Twitter API credentials:
+TWITTER_BEARER_TOKEN=your_token_here
+TWITTER_USERNAME=your_username_here
